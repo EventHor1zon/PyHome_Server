@@ -1,0 +1,5 @@
+
+
+DEVICE_NAME = "Pi^4"
+
+DEVICE_ID = 0x31
